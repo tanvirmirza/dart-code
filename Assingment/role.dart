@@ -1,0 +1,8 @@
+
+abstract class Role {
+
+displayRole();
+  
+}
+
+
